@@ -35,7 +35,7 @@ const Header = () => {
   };
   return (
     <>
-      <AppBar position="sticky">
+      <AppBar style={{background:'orange'}} position="sticky">
         <Toolbar>
           <Typography variant="h4"><img src="https://1000marcas.net/wp-content/uploads/2020/10/Blogger-Logo.png" alt="" style={{maxWidth:'180px',maxHeight:'90px'}} /></Typography>
           {isLogin && (
