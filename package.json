@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "proxy": "https://blog-app-backend-5dgl.onrender.com/",
+  "proxy": "https://blog-app-backend-5dgl.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
